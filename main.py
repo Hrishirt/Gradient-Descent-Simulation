@@ -986,7 +986,7 @@ def main():
         
         lr = st.number_input(
             "Learning rate α",
-            value=0.1,
+            value=0.001,
             min_value=0.001,
             max_value=10.0,
             step=0.01,
