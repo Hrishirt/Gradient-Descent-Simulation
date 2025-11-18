@@ -50,3 +50,6 @@ Click "Run Optimization" to visualize the optimization process!
 - matplotlib
 - pandas
 
+
+## Future Goals
+- Currently the app only works with 1D and I wanna expand it to 2D 
